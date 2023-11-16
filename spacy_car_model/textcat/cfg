@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "unacc",
+    "acc",
+    "good",
+    "vgood"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
