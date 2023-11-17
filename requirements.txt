@@ -1,2 +1,2 @@
-streamlit~=1.0.0
-spacy==3.0.6
+streamlit
+spacy
